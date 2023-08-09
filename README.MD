@@ -1,6 +1,6 @@
-Buenas tardes.
+Hola.
 
-Este script es un script de configuración de Squid que permite las siguientes funciones:
+Este script es un <h1>script de configuración de Squid</h1> que permite las siguientes funciones:
 
 - Validar la creación de nuevas reglas.
 - Validar el estado del servicio.
