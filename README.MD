@@ -1,4 +1,4 @@
-#Squid script for automate administration
+# Squid script for automate administration
 ## Script
 ### Option 1
 ### Option 2
